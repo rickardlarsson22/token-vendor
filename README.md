@@ -220,4 +220,5 @@ Update the `api-key` in `packages/hardhat/package.json`. You can get your key [h
 
 💬 Problems, questions, comments on the stack? Post them to the [Challenge 2 telegram channel](https://t.me/joinchat/IfARhZFc5bfPwpjq)
 #   t o k e n - v e n d o r  
+ #   t o k e n - v e n d o r  
  
